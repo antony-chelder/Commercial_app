@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "729061587576",
+    "project_id": "pattern-6dc24",
+    "storage_bucket": "pattern-6dc24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729061587576:android:e4ef98c947a31a957e0b8d",
+        "android_client_info": {
+          "package_name": "com.ptradeapp.tpattern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729061587576-8u2u722khl0472iakhk41q5a20o1hdm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_nKadcGAasnbNU8mfvckOQSvN74lRZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729061587576-8u2u722khl0472iakhk41q5a20o1hdm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729061587576:android:0f8d815b8cfac22b7e0b8d",
+        "android_client_info": {
+          "package_name": "com.tony_fire.patterncopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729061587576-8u2u722khl0472iakhk41q5a20o1hdm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_nKadcGAasnbNU8mfvckOQSvN74lRZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729061587576-8u2u722khl0472iakhk41q5a20o1hdm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
